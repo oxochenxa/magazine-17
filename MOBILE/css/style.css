@@ -145,3 +145,8 @@ h3 iframe{
     color: rgb(255, 255, 0);
     font-weight: bold;
 }
+
+.note{
+    font-size: 13px !important;
+    font-style: italic;
+}
