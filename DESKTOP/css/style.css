@@ -54,6 +54,7 @@ body a:link{
     color: black;
     -webkit-text-fill-color: black;
     font-weight: bold;
+    text-decoration: none;
 
 }
 .block-header img{
@@ -105,10 +106,9 @@ body a:link{
 }
 .full_screen{
     width: 100%;
-    margin: 20px 0;
 }
 .full_screen img{
-    width: 657px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -182,4 +182,9 @@ h3 iframe{
 .outline-small{
     margin: 0 !important;
     display: inline-block !important;
+}
+
+.note{
+    font-size: 13px !important;
+    font-style: italic;
 }
